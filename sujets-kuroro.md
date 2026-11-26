@@ -3,3 +3,4 @@
 - 2026-11-24 test histoire : arrêté Poubelle, naissance de la poubelle (1883)
 - 2026-11-25 histoire : Einstein présente la relativité générale à Berlin, le 25 novembre (1915)
 - 2026-11-25 actu : éruption explosive la plus profonde jamais trouvée, 6 148 m dans la fosse des Mariannes (étude du 23/11/2026)
+- 2026-11-26 histoire : Howard Carter ouvre la tombe de Toutânkhamon à la bougie, 5 398 objets (26 novembre 1922)
