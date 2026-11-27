@@ -6,3 +6,4 @@
 - 2026-11-26 histoire : Howard Carter ouvre la tombe de Toutânkhamon à la bougie, 5 398 objets (26 novembre 1922)
 - 2026-11-26 actu : Hera dévoile le cratère géant laissé par DART sur l'astéroïde Dimorphos (images du 25/11/2026, orbite raccourcie de 33 min)
 - 2026-11-27 histoire : Alfred Nobel signe à Paris le testament qui crée les prix Nobel, 94 % de sa fortune (27 novembre 1895)
+- 2026-11-27 actu : la Terre dépasse +2 °C sept jours d'affilée, du 18 au 24/11 (Copernicus, record +2,25 °C le 23/11/2026)
