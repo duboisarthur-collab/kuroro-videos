@@ -5,3 +5,4 @@
 - 2026-11-25 actu : éruption explosive la plus profonde jamais trouvée, 6 148 m dans la fosse des Mariannes (étude du 23/11/2026)
 - 2026-11-26 histoire : Howard Carter ouvre la tombe de Toutânkhamon à la bougie, 5 398 objets (26 novembre 1922)
 - 2026-11-26 actu : Hera dévoile le cratère géant laissé par DART sur l'astéroïde Dimorphos (images du 25/11/2026, orbite raccourcie de 33 min)
+- 2026-11-27 histoire : Alfred Nobel signe à Paris le testament qui crée les prix Nobel, 94 % de sa fortune (27 novembre 1895)
