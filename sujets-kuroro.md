@@ -8,3 +8,4 @@
 - 2026-11-27 histoire : Alfred Nobel signe à Paris le testament qui crée les prix Nobel, 94 % de sa fortune (27 novembre 1895)
 - 2026-11-27 actu : la Terre dépasse +2 °C sept jours d'affilée, du 18 au 24/11 (Copernicus, record +2,25 °C le 23/11/2026)
 - 2026-11-28 histoire : Magellan sort du détroit et baptise l'océan Pacifique, 3 navires, 38 jours de détroit (28 novembre 1520)
+- 2026-11-28 actu : Marc Marquez annonce sa retraite du MotoGP une semaine après son 8e titre, record d'Agostini égalé (annonce le 27/11/2026)
